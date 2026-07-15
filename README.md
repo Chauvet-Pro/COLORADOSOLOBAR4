@@ -2,6 +2,14 @@
 
 ## Software Versions
 
+[V1.1.6 - COLORado Solo Bar 4](https://github.com/Chauvet-Pro/COLORADOSOLOBAR4/blob/a7b287550187546e95cdf191efaf288a5a6be0b9/Firmware/V1.1.6.zip)
+- Optimized dimming performance
+- Improved dimmer response
+- Fixed color shift issue when redshift is enabled
+- Fixed redshift effect being nearly identical regardless of color calibration on/off setting
+- Fixed Art-Net failure to reconnect after power cycle when universe is not set to 0
+- Added NFC functionality
+
 [V1.1.5 - COLORado Solo Bar 4](https://github.com/Chauvet-Pro/COLORADOSOLOBAR4/blob/ef2e1715269c94d9a6d7898e0fd920cb0924f8c4/V1.1.5.zip)
 - Fixed bug of DMX address, UID, and hours reset caused by network upgrade failure
 -  Added FULL/CCT option for red shift
